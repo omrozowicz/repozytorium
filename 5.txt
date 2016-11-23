@@ -1,6 +1,6 @@
-#include<iostream.h>
+c#include<iostream.h>
 #include<math.h>
-
+ggh
 int pierwsza(int liczba)
  {
 int licznik,wynik=1;

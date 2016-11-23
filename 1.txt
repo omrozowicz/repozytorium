@@ -1,4 +1,4 @@
-#include<iostream.h>
+ftjg#include<iostream.h>
 #include<stdlib.h>
 main()
 {

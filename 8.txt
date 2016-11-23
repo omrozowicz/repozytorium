@@ -1,4 +1,4 @@
-# include <iostream.h>
+dfgg# include <iostream.h>
 # include <math.h>
 
 main()
