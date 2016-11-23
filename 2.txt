@@ -1,0 +1,29 @@
+#include<iostream.h>
+#include<stdlib.h>
+
+
+main()
+{
+
+randomize;
+
+const int size=8;
+
+ int tab[size][size];
+ int ilosc=0;
+
+for (int i=0;i<size;i++){
+  cout<<endl;
+  for (int j=0;j<size;j++){
+  tab[i][j]=random(100)+1;
+  cout<<tab[i][j]<<"\t";
+  if (tab[i][j]%3==0){ilosc++;}
+							  }
+							}
+
+
+cout<<endl;
+cout<<endl;
+cout<<"Liczb podzielnych przez 3 jest : "<<ilosc;
+
+}
